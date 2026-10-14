@@ -30,3 +30,12 @@ Conforme adquirir novos conhecimentos, pretendo implementar funcionalidades e ap
 
 ## Como executar 
 
+### Pré-requisitos
+
+- Python 3 instalado no computador. 
+
+### Executando o programa
+
+```poweshell
+python Scarv_Bank.py
+```
